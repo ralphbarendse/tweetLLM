@@ -78,11 +78,7 @@ The Twitter Auto Poster is built with robust error handling to ensure smooth ope
 
 ## 🤝 Contributing
 
-We welcome contributions to make the Twitter Auto Poster even more awesome! Feel free to submit issues, feature requests, or pull requests.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+We welcome contributions to make the tweetLLM even more awesome! Feel free to submit issues, feature requests, or pull requests.
 
 ## 🙏 Acknowledgements
 
