@@ -1,0 +1,15 @@
+# Twitter API credentials
+TWITTER_API_KEY = 'API here'
+TWITTER_API_SECRET_KEY = 'API here'
+TWITTER_ACCESS_TOKEN = 'API here'
+TWITTER_ACCESS_TOKEN_SECRET = 'API here'
+
+# Tavily API key
+TAVILY_API_KEY = 'API here'
+
+# Anthropic API key
+ANTHROPIC_API_KEY = 'API here'
+
+# Unsplash API key
+UNSPLASH_ACCESS_TOKEN = 'API here'
+UNSPLASH_ACCESS_TOKEN_SECRET = 'API here'
