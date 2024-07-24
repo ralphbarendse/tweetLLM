@@ -32,7 +32,7 @@ Welcome to the future of Twitter engagement! The tweetLLM is your ultimate compa
 
 ## 🔑 API Keys Required
 
-To use the Twitter Auto Poster, you'll need to obtain API keys for the following services:
+To use the tweetLLM, you'll need to obtain API keys for the following services:
 
 - Twitter API (v2)
 - Tavily API
@@ -74,7 +74,7 @@ Each generated thread follows a carefully crafted structure to maximize engageme
 
 ## 🛡️ Error Handling
 
-The Twitter Auto Poster is built with robust error handling to ensure smooth operation. It gracefully manages API rate limits, connection issues, and content generation hiccups.
+tweetLLM is built with robust error handling to ensure smooth operation. It gracefully manages API rate limits, connection issues, and content generation hiccups.
 
 ## 🤝 Contributing
 
